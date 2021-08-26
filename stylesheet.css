@@ -79,27 +79,29 @@ body {
     font-size: 20px;
     transition: all 0.3s ease-in-out;
   }
-   /*Custom*/
-   .custom-timeblock-time, .custom-timeblock-save {
+
+
+   /*New CSS*/
+   .timeblock-time, .timeblock-save {
      width: 10%;
    }
   
-   .custom-timeblock-event {
+   .timeblock-event {
     width: 80%;
     border-left: 3px solid #9aa3ab;
     color: white;
   }
   
-  .custom-timeblock-time {
+  .timeblock-time {
    border-top-style: dashed;
   }
   
-  .custom-timeblock-save {
+  .timeblock-save {
     border-top-right-radius: 1.00rem;
     border-bottom-right-radius: 1.00rem;
     border-left: 3px solid #118799
   }
   
-  .custom-list-item {
+  .list-item {
    height: 100px;
   }
